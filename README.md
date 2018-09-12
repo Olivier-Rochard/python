@@ -1,1 +1,1 @@
-# python
+quelques essais avec python
